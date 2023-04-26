@@ -1,0 +1,54 @@
+{
+    "quantidade": 7,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Lindsey Bishop",
+            "email": "edwardssteven@example.org",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "6HqeOdE1Ynmqvl09"
+        },
+        {
+            "nome": "Dani Cavalcanti",
+            "email": "owensdeanna@example.net",
+            "password": "pwd123",
+            "administrador": "true",
+            "_id": "CT5fTOl9UvoEevuj"
+        },
+        {
+            "nome": "{{generatedName}}",
+            "email": "Clair23@example.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "KQQn2LpYo5uyJLSF"
+        },
+        {
+            "nome": "Sabino Melo",
+            "email": "sabinomelo@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "O8IqorlOwOwiYvnt"
+        },
+        {
+            "nome": "Jose Thompson",
+            "email": "sarnold@example.net",
+            "password": "3dGlgr8t!m",
+            "administrador": "true",
+            "_id": "fn4jzzOAKgV9QUdG"
+        },
+        {
+            "nome": "{{generatedName}}",
+            "email": "Barney_Marquardt@example.org",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "sqcqR5jUOlzhu8o3"
+        }
+    ]
+}
